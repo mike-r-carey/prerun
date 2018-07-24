@@ -1,0 +1,10 @@
+###
+# CI
+##
+
+language: bash
+
+script:
+  - make test
+
+# .travis.yml
