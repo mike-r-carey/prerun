@@ -1,0 +1,36 @@
+###
+# Files to ignore
+##
+
+/.envrc
+
+##
+# OS Files
+##
+
+# Mac OS
+.DS_Store
+._*
+.Trashes/
+
+# Linux
+*~
+*.swp
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+
+##
+# Ignored extensions
+##
+
+*.bak
+*.log
+*.swp
+*.tmp
+
+# .gitignore
